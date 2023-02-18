@@ -1,0 +1,36 @@
+/***********************Tag selection*************/
+body {
+  background-color: #BFFFF0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h3{
+  color: #FFBED8
+}
+h1{
+  color: #BEAEE2
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/************class selection*************/
+/**********using img class, use class as a selector, an element can have multi class but unique ID
+.bacon{
+  background-color: green;
+}
+.tea{
+  background-color: red;
+}
+***************/
+/*****ID selector*****/
+/***index里，<h1 id="heading"...
+#heading{
+  color: blue;
+}****/
